@@ -1,4 +1,4 @@
-## I do random tech-related stuff
+## I do random tech stuff
 You can look at them here:
 https://manitofigh.github.io/random
 
