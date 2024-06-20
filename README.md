@@ -1,4 +1,6 @@
-## Hi there 👋
+## I do random tech-related stuff
+You can look at them here:
+manitofigh.github.io/random
 
 <!--
 **manitofigh/manitofigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
