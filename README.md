@@ -1,3 +1,3 @@
 ## I <make|change|do> random stuff <with|for> computers
-If what I do is not software base (which I would host on github), I share them on this static web page hosted on GitHub Pages: </br>
+If what I do is not software-based (which in that case I'd host it on github), I share them here: </br>
 https://manitofigh.github.io/random
